@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "sagar", "age": 24, "Carrer": "btech" },
+  { "id": 2, "name": "amit", "age": 24, "Carrer": "btech" },
+  { "id": 3, "name": "sandeep", "age": 24, "Carrer": "btech" },
+  { "id": 4, "name": "bhavna", "age": 24, "Carrer": "btech" },
+  { "id": 5, "name": "balvant", "age": 24, "Carrer": "btech" },
+  { "id": 6, "name": "gaura", "age": 24, "Carrer": "btech" },
+  { "id": 7, "name": "Test Tour 2", "duration": 17, "difficulty": "hard" },
+  { "id": 8, "name": "Test Tour 5", "duration": 17, "difficulty": "hard" },
+  { "id": 9, "name": "Test Tour 5", "duration": 17, "difficulty": "hard" },
+  { "id": 10, "name": "gaurav", "age": 26, "proffession": "btech" },
+  { "id": 11, "name": "Test Tour 10", "duration": 15, "difficulty": "none" }
+]
